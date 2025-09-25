@@ -1,4 +1,4 @@
-##############################    HILL CLIMB RACING ALL STAGES / CARS / GARAGE UNLOCKED AND MAX    ##################################
+######################    HILL CLIMB RACING ALL STAGES / CARS / GARAGE UNLOCKED AND MAX    ######################    
 
 1. Close Hill climb racing 
 2. Download the file settings.dat from this repository and place it in
