@@ -1,19 +1,27 @@
-######################    HILL CLIMB RACING ALL STAGES / CARS / GARAGE UNLOCKED AND MAX    ######################    
+# Hill Climb Racing – All Stages / Cars / Garage Unlocked and Maxed
 
+Follow these steps to unlock everything in Hill Climb Racing:
 
+---
 
-1. Close Hill climb racing 
-2. Download the file settings.dat from this repository and place it in
-C:\Users\yourusername\AppData\Local\Packages\FINGERSOFT.HILLCLIMBRACING_r6rtpscs7gwyg\Settings
-and replace the existing settings.dat file
-3. Hill climb racing may crash once when you open first time after you make the changes . So retry to open.
+## Steps
 
+1. **Close Hill Climb Racing** if it is running.  
+2. **Download the `settings.dat` file** from this repository and place it in:  
 
+C:\Users<yourusername>\AppData\Local\Packages\FINGERSOFT.HILLCLIMBRACING_r6rtpscs7gwyg\Settings
 
-Features 
-- All stages unlocked
-- All cars unclocked and maxed
-- All garage cards maxed (except for common cards at level 11)
-- No coins and gems mod (you start from 0) to make it look clean
-- Full nitro bottles
-- No any Highscores set and levels cleared so you can start from level zero
+Replace the existing `settings.dat` file.  
+
+3. **Note:** Hill Climb Racing may crash the first time you open it after making these changes. If it does, simply retry opening the game.
+
+---
+
+## Features
+
+- All stages unlocked  
+- All cars unlocked and maxed  
+- All garage cards maxed (except for common cards at level 11)  
+- **No coins or gems added** — you start from 0 to keep it clean  
+- Full nitro bottles  
+- No high scores set, and levels cleared so you can start fresh from level zero
