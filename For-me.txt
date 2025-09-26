@@ -1,0 +1,4 @@
+0x00001A9C-F ---------  gems@P (value in hexadecimal)
+0x00001884-7 ---------  coins (value in hexadecimal)
+0x0001310C-F ---------  countryside_level (level in hexadecimal)
+0x00013634-7 ---------  countryside_dragster_highscore (meters in hexadecimal)
